@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "黑马优购",
+  "usingComponents": {
+    "my-search": "/components/my-search/my-search"
+  }
+}
